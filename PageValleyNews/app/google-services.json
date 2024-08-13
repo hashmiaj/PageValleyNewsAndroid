@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612032142068",
+    "firebase_url": "https://pagevalleynewsandroid.firebaseio.com",
+    "project_id": "pagevalleynewsandroid",
+    "storage_bucket": "pagevalleynewsandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612032142068:android:0ad4ffccfd1eb7e8091ca1",
+        "android_client_info": {
+          "package_name": "com.bundle.pagevalleynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612032142068-lsf99hkbgk3q2sqs3mqmv747t7bqhfda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7dKQetfGgDkNmOKPnEmphNMsHEuNB9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612032142068-lsf99hkbgk3q2sqs3mqmv747t7bqhfda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
